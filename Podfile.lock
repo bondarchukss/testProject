@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Kingfisher (5.3.1)
+  - Moya (13.0.1):
+    - Moya/Core (= 13.0.1)
+  - Moya/Core (13.0.1):
+    - Alamofire (~> 4.1)
+    - Result (~> 4.1)
+  - Result (4.1.0)
+  - SnapKit (5.0.1)
+  - SwiftLint (0.39.1)
+
+DEPENDENCIES:
+  - Kingfisher (~> 5.3.1)
+  - Moya (~> 13.0)
+  - SnapKit (~> 5.0.0)
+  - SwiftLint
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - Moya
+    - Result
+    - SnapKit
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Kingfisher: d9e7e0b209b59b8f9873aa2f37654e81a7beea51
+  Moya: f4a4b80ff2f8a4ffc208dfb31cd91636622fee6e
+  Result: bd966fac789cc6c1563440b348ab2598cc24d5c7
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SwiftLint: 55e96a4a4d537d4a3156859fc1c54bd24851a046
+
+PODFILE CHECKSUM: 068f23dc56ab9ba99591c3c267ad2cef6d4d8e82
+
+COCOAPODS: 1.9.0
